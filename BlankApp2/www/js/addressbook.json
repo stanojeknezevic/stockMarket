@@ -1,0 +1,36 @@
+{"persons": [
+    {
+    "personName": "Stanoje Knezevic",
+    "personEmail": "sknest@gmail.com",
+    "personContact": "5455 555 555",
+   // "personDisplayPicture": "http://lorempixel.com/64/64"
+},
+    
+    {
+    "personName": "Vesna Knezevic",
+    "personEmail": "sknest@gmail.com",
+    "personContact": "5455 555 555",
+  //  "personDisplayPicture": "http://lorempixel.com/64/64"
+},
+    
+    {
+    "personName": "Jovana Knezevic",
+    "personEmail": "sknest@gmail.com",
+    "personContact": "5455 555 555",
+  //  "personDisplayPicture": "http://lorempixel.com/64/64"
+},
+    
+    {
+    "personName": "Milica Knezevic",
+    "personEmail": "sknest@gmail.com",
+    "personContact": "5455 555 555",
+  //  "personDisplayPicture": "http://lorempixel.com/64/64"
+},
+    
+    {
+    "personName": "Ana Knezevic",
+    "personEmail": "sknest@gmail.com",
+    "personContact": "5455 555 555",
+  //  "personDisplayPicture": "http://lorempixel.com/64/64"
+}
+]}
